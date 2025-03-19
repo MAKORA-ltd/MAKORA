@@ -1,4 +1,4 @@
 # MAKORA #
-"bash"
+'''
 traiter
-"bash"
+'''
