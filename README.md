@@ -1,1 +1,4 @@
 # MAKORA #
+"bash"
+traiter
+"bash"
